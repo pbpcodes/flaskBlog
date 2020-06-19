@@ -1,0 +1,21 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root@localhost/bsp",
+    "production_uri": "mysql://root@localhost/bsp",
+    "fb_url": "https://facebook.com/bspsansd",
+    "tw_url": "https://twitter.com/bspsansd",
+    "git_url": "https://github.com/bspsansd",
+    "blog_name": "BSP SANSD",
+    "sub_heading": "A Travelogue",
+    "gmail-user": "bpensdown@gmail.com",
+    "gmail-password": "Pranendu31@",
+    "about_text": "Hi! We are BSP SANSD.",
+    "number_of_posts": 5,
+    "admin_username": "pranendu",
+    "admin_password": "bikash"
+  }
+
+
+}
